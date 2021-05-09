@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoRent_system", "VideoRent_system\VideoRent_system.csproj", "{773BD55C-3E18-4769-973D-E6E028BB5921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{98595768-32EB-4175-990C-16E8E2FCD7C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{773BD55C-3E18-4769-973D-E6E028BB5921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773BD55C-3E18-4769-973D-E6E028BB5921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773BD55C-3E18-4769-973D-E6E028BB5921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773BD55C-3E18-4769-973D-E6E028BB5921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98595768-32EB-4175-990C-16E8E2FCD7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98595768-32EB-4175-990C-16E8E2FCD7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98595768-32EB-4175-990C-16E8E2FCD7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98595768-32EB-4175-990C-16E8E2FCD7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAA26966-A520-41CC-82F4-898F33CB3BAA}
+	EndGlobalSection
+EndGlobal
